@@ -1,0 +1,15 @@
+*.iml
+.idea
+out
+*.eml
+target
+.classpath
+.project
+.settings
+.iws
+/bin/
+.springBeans
+/*.DS_Store
+*.DS_Store
+/.metadata
+/repository/
